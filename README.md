@@ -7,10 +7,8 @@
 
 ---
 
-- 🔭 Check out my YouTube: [Become a software developer!][youtube]
-- 🌱 I’m currently learning [everything][telegram] 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: 100k [followers][youtube]
+
+
 ---
 ### Languages and Tools:
 
